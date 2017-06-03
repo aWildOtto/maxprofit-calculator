@@ -1,0 +1,19 @@
+{
+  "name": "maxprofit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.0.1",
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Otto",
+  "license": "ISC"
+}
